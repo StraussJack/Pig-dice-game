@@ -12,5 +12,5 @@
 
 #### Игра выполнена на HTML,CSS,Javascript.
 
-Ссылка на страницу с [игрой](https://straussjack.github.io/Pig-dice-game/)
+Ссылка на страницу с [игрой в кости](https://straussjack.github.io/Pig-dice-game/)
 
